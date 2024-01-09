@@ -2,7 +2,12 @@
  
 Technical Test to evaluate my skills in Python with Pandas Library
 
-Run scrapping.py. Results in path './dowlaods' that will be created.
+
+## Solution Code
+ 
+ - [Python Solution](https://github.com/OMarcusCastro/ChallengeCrimeData/blob/main/main.py)
+ -  Results in path './dowlaods' that will be created.
+
 ## Steps
 
  - [x] Scrapping with selenium:  headless mode, untrack driver automations
@@ -11,3 +16,4 @@ Run scrapping.py. Results in path './dowlaods' that will be created.
    - [x] totals: Remove column using  `df.drop('column_name',axis=1)` 
    - [x] index: Use `df.to_csv('file_name',index=False)`
    - [x] footer: Use `df.dropna()` removes rows with NaN values
+      
