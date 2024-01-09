@@ -1,7 +1,7 @@
 import pandas as pd
 import zipfile
 
-ZIP = 'victims.zip'
+ZIP = './downloads/victims.zip'
 FILENAME = 'Victims_Age_by_Offense_Category_2022.xlsx'
 
 
