@@ -5,7 +5,7 @@ Technical Test to evaluate my skills in Python with Pandas Library
 
 ## Solution Code
  
- - [Python Solution](https://github.com/OMarcusCastro/ChallengeCrimeData/blob/main/main.py)
+ - [Python Solution](https://github.com/OMarcusCastro/ChallengeCrimeData/blob/main/scrapping.py)
  -  Results in path './dowlaods' that will be created.
 
 ## Steps
